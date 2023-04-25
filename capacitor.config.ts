@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'first-app',
+  appId: 'com.ua.lovelife.firstApp', // domain name & app identifier lovelife.com.ua firstApp
+  appName: 'First App',
   webDir: 'www',
   bundledWebRuntime: false
 };
